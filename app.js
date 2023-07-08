@@ -1,6 +1,6 @@
 const http = require('http') // this is the library required to start a server
 const fs = require('fs')
-const port = 3000  // this is the port to listen to the server
+const port = process.env.PORT || 3000  // this is the port to listen to the server
 
 
 
