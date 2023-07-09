@@ -2,9 +2,10 @@
   "name": "test_server",
   "version": "1.0.0",
   "description": "use this during your practicals",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "app.js",
+    "test": "echo \"Error: no test specified\" && exit: 1"
   },
   "author": "Karatu Musa",
   "license": "ISC",
