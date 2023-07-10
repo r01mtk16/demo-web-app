@@ -16,7 +16,7 @@
   },
   "keywords": [],
   "devDependencies": {
-    "jest": "^29.4.1"
+    "jest": "^25.0.0"
   },
   "repository": {
     "type": "git",
